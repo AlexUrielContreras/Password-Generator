@@ -13,4 +13,4 @@ We were assigned to make a password generator. This password generater is going 
 * Javascript
 
 ## ScreenShots
-assets\images\Screenshot (407).png
+<img src="./assets/images/Screenshot (407).png" />
